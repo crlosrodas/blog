@@ -1,11 +1,11 @@
-# blog
+# Carlos' Blog
 ---
-layout: post
-title: "Building My First Cybersecurity Home Lab"
+
+#### Building My First Cybersecurity Home Lab
 date: 2024-07-11
 ---
 
-### Introduction
+### Intro
 In this post, I'll walk you through the steps I took to set up my first home lab for cybersecurity practice.
 
 ### Requirements
