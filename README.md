@@ -3,7 +3,7 @@
 
 ## Building My First Cybersecurity Home Lab
 2024-07-11
----
+
 
 ### Intro
 In this post, I'll walk you through the steps I took to set up my first home lab for cybersecurity practice.
