@@ -2,7 +2,7 @@
 ---
 
 ## Building My First Cybersecurity Home Lab
-2024-07-11
+07-11-24
 
 
 ### Intro
