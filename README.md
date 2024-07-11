@@ -1,8 +1,8 @@
 # Carlos' Blog
 ---
 
-#### Building My First Cybersecurity Home Lab
-date: 2024-07-11
+## Building My First Cybersecurity Home Lab
+2024-07-11
 ---
 
 ### Intro
