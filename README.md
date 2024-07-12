@@ -1,4 +1,4 @@
-# Blog
+# Carlos' Blog
 Blog dedicated to documenting my cybersecurity projects and findings.
 
 
