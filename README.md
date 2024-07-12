@@ -1,6 +1,6 @@
 # Carlos' Blog
 Blog dedicated to documenting my cybersecurity projects and findings.
----
+
 
 ## Building My First Cybersecurity Home Lab
 07-11-24
