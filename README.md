@@ -1,5 +1,5 @@
-title: Carlos' Blog
-description: Blog dedicated to documenting my cybersecurity projects and findings.
+# Carlos' Blog
+Blog dedicated to documenting my cybersecurity projects and findings.
 ---
 
 ## Building My First Cybersecurity Home Lab
