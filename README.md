@@ -8,14 +8,14 @@ Blog dedicated to documenting my cybersecurity projects and findings.
 07-11-24
 
 
-### Intro
+### Intro:
 In this post, I'll walk you through the steps I took to set up my first home lab for cybersecurity practice.
 
-### Requirements
+### Requirements:
 - A spare computer or virtual machine
 - Basic networking knowledge
 
-### Steps
+### Steps:
 1. **Install VirtualBox**: Download and install VirtualBox from [here](https://www.virtualbox.org/).
 2. **Set Up VMs**: Create virtual machines for different operating systems (Windows, Linux, etc.).
 3. **Configure Network**: Set up a private network for your VMs to interact with each other.
